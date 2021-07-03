@@ -17,17 +17,17 @@ h1{
 }
 section{
     height: 450px;
+
 }
 .half-width{
     width: 40%;
     height: 450px;
     float: left;
-   
     padding-left: 125px;
-    padding-top: 0px;
+    
 }
 .half-width img{
-    width: 100%;
+    width: 70%;
     height: 450px;
 }
 .second-h2{
