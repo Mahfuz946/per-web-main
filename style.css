@@ -51,6 +51,8 @@ section{
 }
 .project:hover{
     background-color: rgb(170, 152, 152);
+    width: 25%;
+    height: 70%;
 }
 .project img{
     width: 97%;
