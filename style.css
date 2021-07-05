@@ -48,7 +48,9 @@ section{
     box-shadow: 5px 10px 30px;
     border-radius: 10%;
     padding:4px 10px 1px 10px;
-    
+}
+.project:hover{
+    background-color: rgb(170, 152, 152);
 }
 .project img{
     width: 97%;
